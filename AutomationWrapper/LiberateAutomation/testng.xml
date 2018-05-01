@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="LiberateAutomation">
+	<test name="Regression">
+		<classes>
+			<class name="com.liberate.automation.testcases.CommonLogin" />
+			<class name="com.liberate.automation.testcases.AlterProductTC" />
+		</classes>
+	</test>
+</suite>

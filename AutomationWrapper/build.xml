@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="LiberateAutomation.info" default="info" basedir=".">
+  <target name ="info" description="Create a jar for the HW project">
+    <!--jar jarfile="HelloWorld.jar" includes="*.class" basedir="bin"/-->
+  </target>
+  <target name="test">
+  </target>
+</project>
